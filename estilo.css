@@ -1,14 +1,14 @@
 /* DOCUMENTO CSS */
-html {
-	scroll-behavior: smooth;
-  }
-
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
 }
 
 body {
