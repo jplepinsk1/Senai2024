@@ -57,6 +57,8 @@ header p {
 	height: 30px;
 	padding: 10px;
 	font-size: 20px;
+	margin-left: 10%;
+	margin-top: 10px;
 }
 main {
 	width: 100%;
